@@ -1,0 +1,39 @@
+{
+    "site_signin" : "https://www.amazon.com/gp/sign-in.html",
+    "music_url_all" : [
+                            "https://music.amazon.com/stations/A4NZ25S627D09",
+                            "https://music.amazon.com/stations/A1UQC6MNABDDLE",
+                            "https://music.amazon.com/stations/A14YWLB4VNAVMT",
+                            "https://music.amazon.com/stations/A2TNPB8EVLW5FA",
+                            "https://music.amazon.com/stations/AVED1T9WITC0A",
+                            "https://music.amazon.com/stations/AVED1T9WITC0A",
+                            "https://music.amazon.com/stations/A117TZ123ONZCD",
+                            "https://music.amazon.com/stations/APT4K0JSHZ0IR",
+                            "https://music.amazon.com/stations/A39ODCYJEIKFSI",
+                            "https://music.amazon.com/stations/A2AK77ZLJRD6C9",
+                            "https://music.amazon.com/stations/AVE7N3YB6CXIV"
+                     ],
+    "USERINFOMATIONS" : [
+                            {
+                                "EMAIL":"xxxxxxxxxxx",
+                                "PWD":"xxxxxxxxxxx",
+                                "USERNAME": "xxxxxxxxxxx",
+                                "PASSWORD": "xxxxxxxxxxx",
+                                "ENDPOINT": "premium.residential.proxyrack.net:10000"
+                            },
+                            {
+                                "EMAIL":"xxxxxxxxxxx",
+                                "PWD":"xxxxxxxxxxx",
+                                "USERNAME": "xxxxxxxxxxx",
+                                "PASSWORD": "xxxxxxxxxxx",
+                                "ENDPOINT": "premium.residential.proxyrack.net:10000"
+                            },
+                            {
+                                "EMAIL":"xxxxxxxxxxx",
+                                "PWD":"xxxxxxxxxxx",
+                                "USERNAME": "xxxxxxxxxxx",
+                                "PASSWORD": "xxxxxxxxxxx",
+                                "ENDPOINT": "premium.residential.proxyrack.net:10000"
+                            }
+                        ]
+}
